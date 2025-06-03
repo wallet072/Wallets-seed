@@ -1,1 +1,0 @@
-webpack-internal:///src/components/CoingeckoCoinPriceMarqueeWidget.vue

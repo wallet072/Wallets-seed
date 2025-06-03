@@ -1,0 +1,1 @@
+webpack-internal:///node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"5c0b47b0-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/CoingeckoCoinPriceMarqueeWidget.vue?vue&type=template&id=60428174&

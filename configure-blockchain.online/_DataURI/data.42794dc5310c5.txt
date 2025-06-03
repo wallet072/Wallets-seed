@@ -1,0 +1,1 @@
+webpack-internal:///src/components/CoingeckoCoinPriceMarqueeWidget.vue?vue&type=template&id=60428174&
